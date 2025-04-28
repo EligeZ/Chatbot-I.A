@@ -98,7 +98,7 @@ body {
   color: #fff;
   margin: 0 10px;
   text-decoration: none;
-  font-size: 1.2em; /* Tamanho dos ícones */
+  font-size: 1.2em; /* Tamanho dos ícones (Se houvesse texto)*/
 }
 
 .social-links img {
